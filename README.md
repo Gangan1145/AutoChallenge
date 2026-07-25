@@ -96,4 +96,4 @@
 - 改为每个玩家独立挑战
 
 ## 反馈
-优先发 issue → 共同维护的插件库：https://github.com/ICU-Club/AutoChallenge.git
+优先发 issue → 共同维护的插件库：[https://github.com/ICU-Club/AutoChallenge.git](https://github.com/Gangan1145/AutoChallenge.git)
